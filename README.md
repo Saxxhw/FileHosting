@@ -4,7 +4,7 @@
 
 
 ## 鼎益
-原始地址：[https://raw.githubusercontent.com/Saxxhw/FileHosting/master/DingYi/DingYi.apk](https://raw.githubusercontent.com/Saxxhw/FileHosting/master/DingYi/DingYi.apk)
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/DingYi/DingYi.apk
 
 短链接：http://h5ip.cn/SHDY
 
