@@ -22,3 +22,8 @@
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/Honey/HoneyUser_Multilingual.apk
 
 短链接：http://h5ip.cn/Ba3l
+
+## 青岛纺机User端
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/QingDaoFangJi/QingDaoFangJi_User.apk
+
+短链接：http://h5ip.cn/3yBI
