@@ -29,11 +29,11 @@
 短链接：http://h5ip.cn/3yBI
 
 ## 优特云工业云平台
-原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/GongYeCloud.apk
 
-短链接：
+短链接：http://h5ip.cn/GyN2
 
 ## 优特云消防云平台
-原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/XiaoFangCloud.apk
 
-短链接：
+短链接：http://h5ip.cn/m3eL
