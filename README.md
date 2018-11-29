@@ -3,6 +3,11 @@
 
 
 
+## 中研宜普
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/ZhongYanYiPu/ZhongYanYiPu.apk
+
+短链接：http://h5ip.cn/jBJy
+
 ## 鼎益
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/DingYi/DingYi.apk
 
