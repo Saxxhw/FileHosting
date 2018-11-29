@@ -27,3 +27,13 @@
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/QingDaoFangJi/QingDaoFangJi_User.apk
 
 短链接：http://h5ip.cn/3yBI
+
+## 优特云工业云平台
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/
+
+短链接：
+
+## 优特云消防云平台
+原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/
+
+短链接：
