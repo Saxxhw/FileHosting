@@ -40,11 +40,11 @@
 
 短链接：http://h5ip.cn/GyN2
 
-![Image text](https://github.com/Saxxhw/FileHosting/raw/master/Honey/工业云平台.png)
+![Image text](https://github.com/Saxxhw/FileHosting/raw/master/YouTeYun/工业云平台.png)
 
 ## 优特云消防云平台
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/XiaoFangCloud.apk
 
 短链接：http://h5ip.cn/m3eL
 
-![Image text](https://github.com/Saxxhw/FileHosting/raw/master/Honey/消防云平台.png)
+![Image text](https://github.com/Saxxhw/FileHosting/raw/master/YouTeYun/消防云平台.png)
