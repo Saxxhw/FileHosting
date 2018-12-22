@@ -28,7 +28,7 @@
 
 短链接：http://h5ip.cn/Ba3l
 
-![Image text](https://github.com/Saxxhw/FileHosting/blob/master/Honey/%E6%99%BA%E6%85%A7%E6%B6%88%E9%98%B2.png)
+![Image text](https://github.com/Saxxhw/FileHosting/blob/master/Honey/%E6%99%BA%E6%85%A7%E6%B6%88%E9%98%B2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/150)
 
 ## 青岛纺机User端
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/QingDaoFangJi/QingDaoFangJi_User.apk
