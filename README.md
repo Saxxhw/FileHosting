@@ -33,7 +33,7 @@
 ## 青岛纺机User端
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/QingDaoFangJi/QingDaoFangJi_User.apk
 
-短链接：http://h5ip.cn/3yBI
+短链接：https://dwz.cn/E4QJ0pOi
 
 ## 优特云工业云平台
 原始地址：https://raw.githubusercontent.com/Saxxhw/FileHosting/master/YouTeYun/GongYeCloud.apk
